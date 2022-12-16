@@ -11,3 +11,15 @@ index.html:
 ## 可读性
 
 不必打包, 压缩, 方便自己阅读和修改
+
+## usage
+
+```bash
+source ./command.sh
+```
+
+- help
+
+  ```bash
+  dz_help
+  ```
